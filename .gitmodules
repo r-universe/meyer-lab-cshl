@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "plinkQC"]
 	path = plinkQC
 	url = https://github.com/meyer-lab-cshl/plinkqc
-	shallow = true
-	registered = true
